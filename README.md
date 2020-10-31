@@ -1,20 +1,20 @@
 # Webpack starter
 
-Estrutura incial para crear aplicaciones usando webpack
+Estructura inicial para crear aplicaciones usando webpack
 
 
 ### Notas:
-Recuerden recontruir los módulos de Node
+Recuerden recontruir los módulos de Node:
 
 ```
 npm install
 ```
-Para contruir el build:
+Para construir el build:
 
 ```
 npm run build
 ```
-Arrancar el poryecto en el servidor
+Arrancar el proyecto en el servidor:
 
 ```
 npm start
